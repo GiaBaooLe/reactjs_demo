@@ -37,10 +37,9 @@
 .card p button{
   background-color: black;
  color: white; 
+ 
 }
-.card .detail{
-  background-color: black;
-}
+
 
 .container .column {
   width: calc(100% / 3);
